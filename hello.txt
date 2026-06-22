@@ -4,4 +4,8 @@ hello again
 
 hello a third time
 
+<<<<<<< HEAD
 local change
+=======
+origin change
+>>>>>>> 6bb433db2452967bb4157e5a74c08af3671e530e
